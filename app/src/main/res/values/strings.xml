@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Internship</string>
+    <string name="review">Review</string>
+    <string name="salary">Salary</string>
+    <string name="interview">Interview</string>
+    <string name="employer_id">Employer ID</string>
+    <string name="employer_name">Employer Name</string>
+    <string name="job_title">Job Title</string>
+    <string name="location">Location</string>
+    <string name="review_date_time">Review Date Time</string>
+    <string name="advice">Advice</string>
+    <string name="length_of_employment">Length of Employment</string>
+    <string name="approval_status">Approval Status</string>
+    <string name="employment_status">Employment Status</string>
+    <string name="base_pay">Base Pay</string>
+    <string name="means_pay">Mean Base Pay</string>
+    <string name="interview_not_supported">Interview Details not viewable.</string>
+</resources>
